@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GoldPocket</string>
+    <string name="number">0</string>
+    <string name="btnBuy">Buy</string>
+    <string name="reset">Reset</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="buy_page">Buy Page</string>
+    <string name="btnBack">Back</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="fg_buy">0</string>
+    <string name="fg_sell">Hello Sell fragment</string>
+    <string name="buy">Balance</string>
+    <string name="history">History</string>
+    <string name="trx">Transaction</string>
+    <string name="gr">Gr</string>
+    <string name="Buy">Buy</string>
+    <string name="Sell">Sell</string>
+</resources>
